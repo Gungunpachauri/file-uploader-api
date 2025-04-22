@@ -12,3 +12,4 @@ MERN project
 # Update 80
 # Update 6
 # Update 24
+# Update 7
